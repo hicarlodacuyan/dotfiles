@@ -1,0 +1,17 @@
+dconf
+epiphany
+evolution
+gnome-session
+go
+goa-1.0
+gtk-3.0
+gtk-4.0
+ibus
+nautilus
+neofetch
+pulse
+systemd
+yay
+.gsd-keyboard.settings-ported
+user-dirs.dirs
+user-dirs.locale
