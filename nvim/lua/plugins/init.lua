@@ -30,6 +30,7 @@ return {
         "stylua",
         "html-lsp",
         "css-lsp",
+<<<<<<< HEAD
         "tailwindcss-language-server",
         "typescript-language-server",
         "prettierd",
@@ -40,6 +41,14 @@ return {
         "gofumpt",
         "goimports-reviser",
         "golangci-lint",
+=======
+        "prettierd",
+        "typescript-language-server",
+        "pyright",
+        "tailwindcss-language-server",
+        "eslint_d",
+        "pylint",
+>>>>>>> origin/main
       },
     },
   },

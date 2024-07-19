@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 dconf
 epiphany
 evolution
@@ -15,3 +16,7 @@ yay
 .gsd-keyboard.settings-ported
 user-dirs.dirs
 user-dirs.locale
+=======
+/tmux/plugins
+configstore
+>>>>>>> origin/main
