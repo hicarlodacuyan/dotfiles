@@ -30,7 +30,7 @@
 
 .window-tiled-border {
   border-width: 3px;
-  border-color: rgb(53,132,228);
+  border-color: rgb(153,193,241);
   border-style: solid;
   border-radius: 14px;
 }
@@ -109,10 +109,10 @@
 
 .window-tilepreview-tiled {
   border-width: 1px;
-  border-color: rgba(53,132,228,0.3);
+  border-color: rgba(153,193,241,0.3);
   border-style: solid;
   border-radius: 14px;
-  background-color: rgba(53,132,228,0.2);
+  background-color: rgba(153,193,241,0.2);
 }
 
 .window-tilepreview-stacked {

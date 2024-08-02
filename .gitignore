@@ -16,4 +16,9 @@ yay
 user-dirs.dirs
 user-dirs.locale
 /tmux/plugins
-
+configstore
+htop
+simple-scan
+totem
+mimeapps.list
+github-copilot

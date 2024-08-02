@@ -2,7 +2,7 @@ local wezterm = require("wezterm")
 
 local config = {}
 
-config.font = wezterm.font("JetBrains Mono")
+config.font = wezterm.font("JetBrainsMono Nerd Font")
 config.window_padding = {
 	top = 0,
 	right = 0,
@@ -10,7 +10,7 @@ config.window_padding = {
 	left = 0,
 }
 config.enable_tab_bar = false
-config.color_scheme = "catppuccin-mocha"
+config.color_scheme = "tokyonight"
 config.term = "xterm-256color"
 config.window_decorations = "RESIZE"
 config.window_frame = {

@@ -56,6 +56,7 @@ return {
         "css",
         "javascript",
         "typescript",
+        "go",
       },
     },
   },
@@ -77,5 +78,11 @@ return {
     config = function()
       require "configs.lint"
     end,
+  },
+
+  -- GitHub Copilot
+  {
+    "github/copilot.vim",
+    lazy = false,
   },
 }
