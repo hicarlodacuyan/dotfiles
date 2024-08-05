@@ -7,7 +7,8 @@ local M = {}
 M.ui = {
   theme = "tokyonight",
   statusline = {
-    separator_style = "block",
+    separator_style = "round",
+    order = { "mode", "file", "%=", "lsp_msg", "%=", "diagnostics", "lsp", "cursor" },
   },
   -- hl_override = {
   -- 	Comment = { italic = true },
